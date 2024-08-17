@@ -2,7 +2,7 @@
 This project aims to diagnose diabetes using the Pima Indians Diabetes Database. The analysis and model training are performed in the `diabetes_diagnosis.ipynb` notebook.
 
 ## Dataset
-The dataset used in this project is the Pima Indians Diabetes Database from Kaggle. It contains several medical predictor variables and one target variable, `Outcome`, which indicates whether a patient has diabetes.
+The dataset used in this project is the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) from Kaggle. It contains several medical predictor variables and one target variable, `Outcome`, which indicates whether a patient has diabetes.
 
 ## Project Structure
 `diabetes_diagnosis.ipynb`: Jupyter notebook containing the analysis, visualizations, and model training.

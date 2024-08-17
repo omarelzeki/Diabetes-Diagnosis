@@ -35,7 +35,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost
 ## Usage
 1. Clone the repository:
 ```shell
-git clone https://github.com/yourusername/diabetes-diagnosis.git
+git clone https://github.com/omarelzeki/diabetes-diagnosis.git
 ```
 2. Navigate to the project directory:
 ```shell
